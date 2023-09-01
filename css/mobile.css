@@ -1,0 +1,22 @@
+@media screen and (max-width: 600px) {
+    .navigation {
+        width: 300px;
+    }
+
+    .nav {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav button {
+        display: none;
+    }
+
+    .layout {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    
+}
